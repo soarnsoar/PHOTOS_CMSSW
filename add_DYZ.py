@@ -643,3 +643,4 @@ if '__main__' == __name__:
 
             event.parse
         output.write(str(event))
+    output.write("</LesHouchesEvents>")
